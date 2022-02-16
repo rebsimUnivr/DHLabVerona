@@ -46,7 +46,8 @@ View(my_df)
 # please write the code immediately down here (in the empty space) 
 # save the file, and then push to the GitHub repo 
 
-
+ciao
+ciao
 
 ### Your Turn (1) - end
 
@@ -86,7 +87,9 @@ my_df$nationality[which(my_df$author == "Dante")]
 # please write the code immediately down here (in the empty space) 
 # save the file, and then push to the GitHub repo 
 
-
+secondo
+tentativo
+!!!
 
 ### Your Turn (2) - end
 
@@ -113,6 +116,10 @@ sort(table(my_third_vector), decreasing = T)
 # please write the code immediately down here (in the empty space) 
 # save the file, and then push to the GitHub repo 
 
+il terzo
 
+
+
+www
 
 ### Your Turn (3) - end
