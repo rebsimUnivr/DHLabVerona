@@ -142,7 +142,7 @@ View(my_df)
 # please write the code immediately down here (in the empty space) 
 # save the file, and then push to the GitHub repo 
 
-
+ciao ciao Caio
 
 ### Your Turn (3) - end
 
@@ -186,6 +186,7 @@ my_texts_2 <- read_corpus("samples")
 # save the file, and then push to the GitHub repo 
 
 maaaa
+      dsdsd
 
 ### Your Turn (4) - end
 
