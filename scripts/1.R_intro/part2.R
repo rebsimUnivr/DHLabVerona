@@ -30,7 +30,7 @@ cat("The cat is on the table", file = "Cat.txt")
 # please write the code immediately down here (in the empty space) 
 # save the file, and then push to the GitHub repo 
 
-
+tooooo
 
 ### Your Turn (1) - end
 
@@ -185,7 +185,7 @@ my_texts_2 <- read_corpus("samples")
 # please write the code immediately down here (in the empty space) 
 # save the file, and then push to the GitHub repo 
 
-
+maaaa
 
 ### Your Turn (4) - end
 
