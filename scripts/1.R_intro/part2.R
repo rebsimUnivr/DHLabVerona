@@ -179,7 +179,7 @@ read_corpus <- function(x){
 
 my_texts_2 <- read_corpus("samples")
 
-### Your Turn (4) - start
+### Your Turn (4) - st
 
 # write a function that reads the .csv files in the "samples" folder and prints how many Italians there are in each table 
 # please write the code immediately down here (in the empty space) 
