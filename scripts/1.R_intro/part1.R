@@ -36,6 +36,13 @@ my_list
 my_list <- list(my_first_vector, my_second_vector)
 my_list
 
+
+
+da das sda
+
+a
+ds ad 
+
 # dataframes
 my_df <- data.frame(author = c("Shakespeare", "Dante", "Cervantes", "Pynchon"), nationality = c("English", "Italian", "Spanish", "American"))
 View(my_df)
@@ -48,6 +55,7 @@ View(my_df)
 
 ciao
 ciao
+rooo
 
 ### Your Turn (1) - end
 
